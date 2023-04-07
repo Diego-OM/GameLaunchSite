@@ -1,0 +1,61 @@
+body{
+    background-clip: "Assets/background.mp4";
+}
+
+h2{
+    color:antiquewhite;
+    font-family: 'Jost', sans-serif;
+}
+
+.header{
+    font-family: 'Jost', sans-serif;
+}
+
+.modelDisplay{
+    position:fixed;
+    bottom: 0;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  }
+
+  .content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+  }
+
+  .mainPage {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+  }
+
+  .navBar {
+    position: fixed;
+    top: 0;
+    background: rgba(0, 0, 0, 0.8);
+    color: #f1e2e2;
+    width: 100%;
+  }
+
+  .navBar a{
+    color: antiquewhite;
+    font-family: 'Jost', sans-serif;
+    font-size: xx-large;
+  }
+
+  .pageTitle{
+    font-family: 'Jost', sans-serif;
+    font-size: 60px;
+    padding: 2%;
+  }
